@@ -2,7 +2,7 @@ import pygame
 pygame.init()
 
 
-back = (225,150,150000000)
+back = (225,150,150)
 mw = pygame.display.set_mode((500, 500))
 mw.fill(back)
 jam = pygame.time.Clock()
