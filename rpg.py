@@ -20,13 +20,15 @@ player = {
 weapons = {
     "Pedang Kayu": {"attack": 0, "price": 0},
     "Pedang Besi": {"attack": 10, "price": 50},
-    "Pedang Api": {"attack": 25, "price": 120}
+    "Pedang Api": {"attack": 25, "price": 120},
+    "katana cahaya": {"attack": 50, "price": 200}     
 }
 
 monsters = [
     {"name": "Slime", "hp": 40, "attack": 8, "defense": 2, "exp": 20, "gold": 15},
     {"name": "Goblin", "hp": 60, "attack": 12, "defense": 4, "exp": 30, "gold": 25},
-    {"name": "Orc", "hp": 90, "attack": 16, "defense": 7, "exp": 45, "gold": 40}
+    {"name": "Orc", "hp": 90, "attack": 16, "defense": 7, "exp": 45, "gold": 40},
+    {"name": "monster", "hp": 250, "attack": 32, "defense": 7, "exp": 410000, "gold": 100}
 ]
 
 
